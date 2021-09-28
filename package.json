@@ -11,7 +11,7 @@
     "hdb": "^0.18.3"
   },
   "devDependencies": {
-    "@sap/cds-dk": "^4.4.2",
+    "@sap/cds-dk": "^4.5.0",
     "@sap/ux-specification": "^1.90.9",
     "sqlite3": "^5.0.2"
   },
